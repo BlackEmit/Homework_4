@@ -1,0 +1,16 @@
+h2{
+    color: green;
+}
+
+p{
+    font-family: arial;
+    font-size: 1em+1;
+}
+
+span{
+    background: cyan;
+}
+
+div{
+    text-align: center;
+}
